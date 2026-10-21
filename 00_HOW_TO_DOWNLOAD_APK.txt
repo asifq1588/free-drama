@@ -1,0 +1,21 @@
+=======================================================
+          DashReels - Android APK Download Guide
+=======================================================
+
+The compiled installation APK files are located right here in your file tree:
+
+1. 01_DashReels.apk   <-- Located right below this file in root!
+2. DashReels.apk      <-- In the root directory
+3. apk/DashReels.apk  <-- Inside the 'apk' folder
+4. public/DashReels.apk
+
+HOW TO DOWNLOAD:
+1. In the left sidebar file list, locate '01_DashReels.apk' or 'DashReels.apk'.
+2. Right-click on '01_DashReels.apk' (or click the three dots).
+3. Click "Download" to save it to your computer or phone!
+4. Transfer and install on any Android phone.
+
+Package Name: com.aistudio.dashreels.kvyz
+Admin Master Password: asif9898
+Firebase Connected: dashreels-bfb61
+=======================================================

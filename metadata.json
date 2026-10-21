@@ -1,0 +1,6 @@
+{
+  "name": "DashReels",
+  "description": "Short reels & mini-series streaming platform with full episode management, Monetag ad rewards, and VIP subscription portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
